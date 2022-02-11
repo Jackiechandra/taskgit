@@ -13,7 +13,8 @@
         "smile/elasticsuite": "~2.10.0",
         "magepal/magento2-reindex": "^1.0",
         "fabrizioballiano/deferjavascripts": "^1.0",
-        "icubeus/magento2-swift-core": "4.0.14"
+        "icubeus/magento2-swift-core": "4.0.14",
+        "icube/magento2-tiptop": "dev-master"
     },
     "replace": {
         "klarna/module-core": "*",
@@ -212,6 +213,10 @@
         "icubebysirclo-shippingpopaket": {
             "type": "git",
             "url": "git@github.com:icubebysirclo/magento2-shippingpopaket.git"
+        },
+        "icube-magento2-tiptop": {
+            "type": "git",
+            "url": "git@github.com:icube-mage/magento2-tiptop.git"
         }
     },
     "extra": {
